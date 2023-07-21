@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Clean up unused imgsz (#7771)
